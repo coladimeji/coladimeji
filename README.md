@@ -6,7 +6,7 @@
 <img align="left" width="10%" alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img align="left" width="9%" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge%logo=javascript&logoColor=%23F7DF1E"/>
 <img align="left" width="9%" alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge%logo=typescript&logoColor=white"/>
-https://www.google.com/imgres?imgurl=http%3A%2F%2Fnestjs.com%2Fimg%2Fnest-og.png&imgrefurl=https%3A%2F%2Fdocs.nestjs.com%2F&tbnid=N7_bZZ3cu5DLlM&vet=12ahUKEwjwuOXC1P_8AhXMrHIEHUrxDI8QMygCegUIARDOAQ..i&docid=OxnHuq-0S5cZgM&w=820&h=429&q=nestjs%20image&ved=2ahUKEwjwuOXC1P_8AhXMrHIEHUrxDI8QMygCegUIARDOAQ
+<img align="left" width="9%" alt="Nestjs" src="https://img.shields.io/badge/nestjs-%23007ACC.svg?style=for-the-badge%logo=nestjs&logoColor=white"/>
 <img align="left" width="7%" alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge%logo=python&logoColor=white"/>
 <img alt="HTML5" width="6%" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge%logo=html5&logoColor=white"/>
 <img align="left" alt="CSS3" width="7%" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge%logo=css3&logoColor=white"/>
