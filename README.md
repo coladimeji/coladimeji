@@ -12,3 +12,4 @@
 <img align="left" alt="CSS3" width="7%" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge%logo=css3&logoColor=white"/>
 
 ![image](https://user-images.githubusercontent.com/32521595/164513317-80467a66-698d-4152-9cb9-7198e64296ae.png)
+![image](https://github.com/coladimeji/coladimeji/assets/32521595/968ff837-3ae4-4838-b478-0f0dc7979667)
